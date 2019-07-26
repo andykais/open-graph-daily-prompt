@@ -1,0 +1,27 @@
+{
+  "name": "open-graph-daily-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andykais/open-graph-daily-prompt.git"
+  },
+  "keywords": [],
+  "author": "Andrew Kaiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andykais/open-graph-daily-prompt/issues"
+  },
+  "homepage": "https://github.com/andykais/open-graph-daily-prompt#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "csv-parse": "^4.4.3",
+    "google-spreadsheet": "^2.0.7",
+    "node-fetch": "^2.6.0",
+    "string-hash": "^1.1.3"
+  }
+}
